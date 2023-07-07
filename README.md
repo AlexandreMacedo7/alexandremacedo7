@@ -2,7 +2,7 @@
 
  💻 I currently work with java with a focus on the backend
  
- 🌱 Studying unit tests and integration tests
+ 🌱 I'm studying the creation of Rest API with Spring Boot
  
  🎩 Curiosity: I love reading, gym and rain!
 
