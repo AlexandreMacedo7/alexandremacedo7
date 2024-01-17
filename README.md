@@ -6,11 +6,11 @@
  
  🎩 Curiosity: I love reading, gym and rain!
 
-<div align="center">
-  <a href="https://github.com/AlexandreMacedo7">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlexandreMacedo7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMacedo7&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<div align="left">
+  
+[![Macedo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMacedo7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></i>
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
