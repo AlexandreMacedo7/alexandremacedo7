@@ -1,10 +1,6 @@
 ### Hi there 👋
 
- 💻 I currently work with java with a focus on the backend
- 
- 🌱 I'm studying the creation of Rest API with Spring Boot
- 
- 🎩 Curiosity: I love reading, gym and rain!
+ 💻 Back End/DevOps
 
 <div align="left">
   
