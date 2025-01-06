@@ -1,6 +1,6 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/b01e3f03-ce0e-41ec-8652-4d410c43044c)### Hi 👋
 
- 💻 Back End/DevOps
+ 💻 Back-end Developer specialized in Software Engineering
 
 <div align="left">
   
