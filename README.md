@@ -1,34 +1,50 @@
- Hi 👋
+# Hi there! I'm Alexandre 👋
 
- 💻 Back-end Developer specialized in Software Engineering
-<div align="left">
-  
-[![Macedo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMacedo7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></i>
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> 
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
-          
-          
-          
-          
-          
-</div>
+### 💻 Backend Developer specialized in Software Engineering
+Focused on building scalable applications with **.NET** and **C#**. Currently working with legacy systems modernization and API development using .NET Framework and Oracle.
 
-##
-<div>
-<a href="https://www.linkedin.com/in/alexandre-costa-macedo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:alexandre.cst.macedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.codigoearquitetura.com.br/"><img height="28.2px" width="90px" src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png" target="_blank"></a>
-</div>
+---
 
+### 🛠 Tech Stack & Tools
+
+**Core Backend & Databases**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" width="45" alt="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" width="45" alt=".NET" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" width="45" alt="Oracle" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" width="45" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="45" width="45" alt="MongoDB" />
+</p>
+
+**Cloud & Infrastructure**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" width="45" alt="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" alt="Git" />
+</p>
+
+**Secondary Skills (Java/Other)**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" width="45" alt="Spring" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMacedo7&theme=dracula&layout=compact" alt="Macedo top languages" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexandre-costa-macedo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
